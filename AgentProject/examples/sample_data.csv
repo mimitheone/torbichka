@@ -1,0 +1,22 @@
+text,category,sentiment
+"Този продукт е страхотен и много го харесвам!",product_review,positive
+"Ужасно качество, никога повече няма да купя.",product_review,positive
+"Доставката беше бърза и точна.",delivery,positive
+"Пратката закъсня с една седмица.",delivery,negative
+"Отличен продукт, препоръчвам на всички!",product_review,positive
+"Обслужването беше лошо и непрофесионално.",customer_service,negative
+"Добре опаковано и качествено.",delivery,positive
+"Цената е прекалено висока за това качество.",product_review,negative
+"Много доволен от покупката си!",product_review,positive
+"Служителите бяха изключително любезни.",customer_service,positive
+"Продуктът не отговаря на описанието.",product_review,negative
+"Бързо решиха моя проблем.",customer_service,positive
+"Качеството надмина очакванията ми.",product_review,positive
+"Опаковката беше повредена при получаване.",delivery,negative
+"Отлично съотношение цена-качество!",product_review,positive
+"Не мога да се свържа с поддръжката.",customer_service,negative
+"Перфектен продукт, точно каквото търсех.",product_review,positive
+"Доставката беше безпроблемна.",delivery,positive
+"Разочарован съм от покупката.",product_review,negative
+"Бързо и ефективно обслужване!",customer_service,positive
+

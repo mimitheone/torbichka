@@ -1,0 +1,11 @@
+.env
+local_database_url.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/*.log
+.DS_Store
+data/
+kaufland_*.html
+assets/
