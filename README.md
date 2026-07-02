@@ -1,6 +1,6 @@
-# Kaufland Bulgaria Product Scraper
+# torbichka
 
-A robust web scraper designed to extract product information and prices from Kaufland Bulgaria's website (www.kaufland.bg). The scraper can parse HTML pages and PDF brochures to gather product names, prices, discounts, images, and descriptions, then save the data in JSON or CSV format.
+Kaufland Bulgaria product scraper — извлича продукти и цени от kaufland.bg, качва в Supabase.
 
 ## Features
 
